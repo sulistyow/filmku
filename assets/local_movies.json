@@ -1,0 +1,134 @@
+{
+  "movies": [
+    {
+      "Title": "John Wick: Chapter 4",
+      "Year": "2023",
+      "Rated": "PG-17",
+      "Runtime": "2h 28m",
+      "Genre": "Action",
+      "Description": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+      "Language": "English",
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "Trailler": "qEVUtrk8_B4",
+      "imdbRating": "8",
+      "Actors": [
+        {
+          "Name": "Keanu Reeves",
+          "Picture": "https://www.themoviedb.org/t/p/w138_and_h175_face/4D0PpNI0kmP58hgrwGC3wCjxhnm.jpg"
+        },
+        {
+          "Name": "Donnie Yen",
+          "Picture": "https://www.themoviedb.org/t/p/w138_and_h175_face/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg"
+        },
+        {
+          "Name": "Ian McShane",
+          "Picture": "https://www.themoviedb.org/t/p/w138_and_h175_face/q9qKbux5Jo76Sj8g3luxBt6rYtz.jpg"
+        }
+      ]
+    },
+    {
+      "Title": "Spider-Man: No Way Home",
+      "Year": "2021",
+      "Rated": "PG-13",
+      "Runtime": "2h 28m",
+      "Genre": "Action, Adventure, Fantasy",
+      "Description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+      "Language": "English, Spanish",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+      "Trailler": "JfVOs4VSpmA",
+      "imdbRating": "8.2",
+      "Actors": [
+        {
+          "Name": "Tom Holland",
+          "Picture": "https://m.media-amazon.com/images/M/MV5BNzZiNTEyNTItYjNhMS00YjI2LWIwMWQtZmYwYTRlNjMyZTJjXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_QL75_UX140_CR0,1,140,207_.jpg"
+        },
+        {
+          "Name": "Zendaya",
+          "Picture": "https://m.media-amazon.com/images/M/MV5BMjAxZTk4NDAtYjI3Mi00OTk3LTg0NDEtNWFlNzE5NDM5MWM1XkEyXkFqcGdeQXVyOTI3MjYwOQ@@._V1_QL75_UY207_CR8,0,140,207_.jpg"
+        },
+        {
+          "Name": "Benedict Cumberbatch",
+          "Picture": "https://m.media-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_QL75_UY207_CR2,0,140,207_.jpg"
+        }
+      ]
+    },
+    {
+      "Title": "The Super Mario Bros. Movie ",
+      "Year": "2022",
+      "Rated": "PG-13",
+      "Runtime": "2h 28m",
+      "Genre": "Animation, Adventure, Family",
+      "Description": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+      "Language": "English, Spanish",
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "Trailler": "KydqdKKyGEk",
+      "imdbRating": "7.2",
+      "Actors": [
+        {
+          "Name": "Chris Pratt",
+          "Picture": "https://www.themoviedb.org/t/p/w138_and_h175_face/83o3koL82jt30EJ0rz4Bnzrt2dd.jpg"
+        },
+        {
+          "Name": "Charlie Day",
+          "Picture": "https://www.themoviedb.org/t/p/w138_and_h175_face/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg"
+        },
+        {
+          "Name": "Anya Taylor-Joy",
+          "Picture": "https://www.themoviedb.org/t/p/w138_and_h175_face/jxAbDJWvz4p1hoFpJYG5vY2dQmq.jpg"
+        }
+      ]
+    },
+    {
+      "Title": "Guardians of the Galaxy Vol. 3",
+      "Year": "2023",
+      "Rated": "PG-13",
+      "Runtime": "2h 28m",
+      "Genre": "Sci-fi, Adventure, Action",
+      "Description": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+      "Language": "English, Spanish",
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "Trailler": "u3V5KDHRQvk",
+      "imdbRating": "8.2",
+      "Actors": [
+        {
+          "Name": "Cris Pratt",
+          "Picture": "https://www.athemoviedb.org/t/p/w138_and_h175_face/83o3koL82jt30EJ0rz4Bnzrt2dd.jpg"
+        },
+        {
+          "Name": "Zoe Zaldana",
+          "Picture": "https://www.themoviedb.org/t/p/w138_and_h175_face/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+        },
+        {
+          "Name": "Dave Bautista",
+          "Picture": "https://www.themoviedb.org/t/p/w138_and_h175_face/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+        }
+      ]
+    },
+    {
+      "Title": "Avatar: The Way of Water ",
+      "Year": "2022",
+      "Rated": "PG-13",
+      "Runtime": "2h 28m",
+      "Genre": "Sci-fi, Adventure, Action",
+      "Description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "Language": "English",
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "Trailler": "a8Gx8wiNbs8",
+      "imdbRating": "8.2",
+      "Actors": [
+        {
+          "Name": "Sam Worthnington",
+          "Picture": "https://www.themoviedb.org/t/p/w138_and_h175_face/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+        },
+        {
+          "Name": "Zoe Saldana",
+          "Picture": "https://www.themoviedb.org/t/p/w138_and_h175_face/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+        },
+        {
+          "Name": "Stephen Lang",
+          "Picture": "https://www.themoviedb.org/t/p/w138_and_h175_face/xEBuFWrCKDQD6r6CZK71GYIc4UW.jpg"
+        }
+      ]
+    }
+  ]
+}
